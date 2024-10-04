@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Swapnil 👋
 
-<!--
-**swapnilsborase/swapnilsborase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently a Masters' student at Birmingham City University
+- 💻 Software Engineer sharing about my learning in tech!
+- 🌱 currently learning about Data Science, Database, Software Oriented Architechture, Mobile Computing & Semantic Web
+- 💻 Enthusiastic about coding and open-source projects
+- 🤔 Always eager to explore new technologies and improve my skills
+- 🌍 Looking to collaborate on exciting projects and contribute to the community
+- 📫 How to reach me: swapnil.borase.1421@gmail.com
+- ⚡ Let’s connect and create something amazing together!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnilsborase)](https://github.com/anuraghazra/github-readme-stats)
+
+
